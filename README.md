@@ -1,2 +1,2 @@
 # blockchain_simple
-Simpe Blockchain from scratch using Python
+Simpe Blockchain web-based from scratch using Python
